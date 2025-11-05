@@ -1,0 +1,29 @@
+{
+  "title": "Ao to Sakura",
+  "alternativeTitle": "青春は三角形のループ",
+  "cover": "https://raw.githubusercontent.com/nurananto/NuranantoScanlation/refs/heads/main/covers/seishun-wa-sankakukei-no-loop-4cf5a0cc-9123-43bd-bf54-c5f8c0aa9e16.jpg",
+  "description": "Siswa SMA yang sulit berbaur dengan kelasnya, Fujieda Ao.Sepulang sekolah, ia selalu menyambangi perpustakaan lokal, tempat ia bertemu dengan seorang gadis.Gadis itu cerah, polos, dan penuh tawa — kebalikan dari dirinya.Namanya, Hidaka Sakura.Ao perlahan mulai tertarik pada Sakura.Pertemuan itu pun lambat laun berubah menjadi sebuah “cinta”.",
+  "author": "Kasuka Io",
+  "artist": "Matsumoto Komikan",
+  "genre": [
+    "Drama",
+    "Shounen",
+    "Comedy",
+    "Romance",
+    "School Life",
+    "Slice of Life"
+  ],
+  "status": "Ongoing",
+  "views": 0,
+  "links": {
+    "mangadex": "https://mangadex.org/title/7cf10b89-2c28-4df5-9087-39f076e79e4a/ao-to-sakura",
+    "raw": "https://www.manga-up.com/titles/1208"
+  },
+  "repoOwner": "nurananto",
+  "repoName": "AotoSakura",
+  "imagePrefix": "Image",
+  "imageFormat": "jpg",
+  "lockedChapters": [
+    "9"
+  ]
+}
