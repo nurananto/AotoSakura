@@ -23,21 +23,9 @@
     "repoUrl": "https://raw.githubusercontent.com/nurananto/AotoSakura/main/",
     "imagePrefix": "Image",
     "imageFormat": "jpg",
-    "lockedChapters": [
-      "9"
-    ]
+    "lockedChapters": []
   },
   "chapters": {
-    "9": {
-      "title": "Chapter 9",
-      "chapter": 9,
-      "folder": "9",
-      "uploadDate": "2025-11-05T21:21:21+07:00",
-      "totalPages": 0,
-      "pages": 0,
-      "locked": true,
-      "views": 0
-    },
     "Oneshot": {
       "title": "Oneshot",
       "chapter": 0,
@@ -49,6 +37,6 @@
       "views": 0
     }
   },
-  "lastUpdated": "2025-11-05T21:21:21+07:00",
+  "lastUpdated": "2025-11-05T21:22:58+07:00",
   "lastChapterUpdate": "2025-11-05T21:19:30+07:00"
 }
