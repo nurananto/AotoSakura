@@ -1,4 +1,5 @@
 {
+  "type": "manga",
   "title": "Ao to Sakura",
   "alternativeTitle": "あおとさくら",
   "cover": "https://cdn.nuranantoscans.my.id/covers/aotosakura-8f1fc328-3eaf-4bd9-8631-c5c9f8029ed5.webp",
@@ -13,7 +14,8 @@
     "School Life",
     "Slice of Life"
   ],
-  "status": "Ongoing",
+  "status": "END",
+  "endChapter": 0,
   "views": 0,
   "links": {
     "mangadex": "https://mangadex.org/title/7cf10b89-2c28-4df5-9087-39f076e79e4a/ao-to-sakura",
