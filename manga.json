@@ -14,8 +14,8 @@
       "School Life",
       "Slice of Life"
     ],
-    "status": "Ongoing",
-    "views": 117,
+    "status": "END",
+    "views": 132,
     "links": {
       "mangadex": "https://mangadex.org/title/7cf10b89-2c28-4df5-9087-39f076e79e4a/ao-to-sakura",
       "raw": "https://www.manga-up.com/titles/1208"
@@ -23,7 +23,8 @@
     "repoUrl": "https://raw.githubusercontent.com/nurananto/AotoSakura/main/",
     "imagePrefix": "Image",
     "imageFormat": "webp",
-    "lockedChapters": []
+    "lockedChapters": [],
+    "type": "manga"
   },
   "chapters": {
     "Oneshot": {
@@ -34,9 +35,9 @@
       "totalPages": 31,
       "pages": 31,
       "locked": false,
-      "views": 55
+      "views": 60
     }
   },
-  "lastUpdated": "2025-12-10T00:11:40+07:00",
+  "lastUpdated": "2025-12-12T00:17:43+07:00",
   "lastChapterUpdate": "2025-11-23T20:10:03+07:00"
 }
