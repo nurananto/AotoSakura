@@ -1,13 +1,47 @@
 {
-  "lastCleanup": "2025-12-22T08:37:21+07:00",
+  "lastCleanup": "2026-02-09T00:16:23+07:00",
   "dailyRecords": {
-    "2025-12-22": {
-      "manga": 3,
+    "2026-02-02": {
+      "manga": 2,
+      "chapters": {
+        "Oneshot": 3
+      }
+    },
+    "2026-02-03": {
+      "manga": 0,
       "chapters": {
         "Oneshot": 1
       }
     },
-    "2025-12-23": {
+    "2026-02-04": {
+      "manga": 3,
+      "chapters": {
+        "Oneshot": 2
+      }
+    },
+    "2026-02-05": {
+      "manga": 1,
+      "chapters": {
+        "Oneshot": 1
+      }
+    },
+    "2026-02-06": {
+      "manga": 2,
+      "chapters": {}
+    },
+    "2026-02-07": {
+      "manga": 3,
+      "chapters": {
+        "Oneshot": 2
+      }
+    },
+    "2026-02-08": {
+      "manga": 2,
+      "chapters": {
+        "Oneshot": 3
+      }
+    },
+    "2026-02-09": {
       "manga": 2,
       "chapters": {
         "Oneshot": 1
