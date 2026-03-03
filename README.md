@@ -13,9 +13,7 @@
 | Author | Kasuka Io |
 | Artist | Matsumoto Komikan |
 | Tipe | Manga (Hitam Putih) |
-| Status | Tamat (Chapter Oneshot) |
 | Genre | Drama · Shounen · Comedy · Romance · School Life · Slice of Life |
-| Chapter | 1 chapter |
 
 ## Link
 
