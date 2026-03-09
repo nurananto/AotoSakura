@@ -27,18 +27,7 @@
     "type": "manga",
     "endChapter": "Oneshot"
   },
-  "chapters": {
-    "Oneshot": {
-      "title": "Oneshot",
-      "chapter": 0,
-      "folder": "Oneshot",
-      "uploadDate": "2025-11-23T20:10:03+07:00",
-      "totalPages": 31,
-      "pages": 31,
-      "locked": false,
-      "views": 179
-    }
-  },
-  "lastUpdated": "2026-03-07T17:00:21.015Z",
-  "lastChapterUpdate": "2025-11-23T20:10:03+07:00"
+  "chapters": {},
+  "lastUpdated": "2026-03-09T20:08:04+07:00",
+  "lastChapterUpdate": "2026-03-09T20:08:04+07:00"
 }
